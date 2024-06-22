@@ -8,7 +8,7 @@
     <link rel="stylesheet"  href="assets/css/bootstrap.min.css">
     <link rel="stylesheet"  href="assets/css/miestilo.css"><!--no lo use al css-->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-     </head>
+ </head>
     <header bg-dark >
       <div class="mt-5 mb-0">
            <div class="py-160 bg-dark text-center mt-5 pt-5 mb-0">
